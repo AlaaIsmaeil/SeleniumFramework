@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 5, Time elapsed: 68.97 s <<< FAILURE! - in TestSuite
+setTestResult(tests.FlowardTest)  Time elapsed: 61.178 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problem: 
+	The method endTest(ExtentTest) in the type ExtentReports is not applicable for the arguments (ExtentReports)
+
+
